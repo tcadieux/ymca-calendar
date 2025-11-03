@@ -3,7 +3,7 @@ name: Build & Publish YMCA ICS
 
 on:
   schedule:
-    - cron: "10 13 * * *"   # 13:10 UTC ≈ 6:10 AM Denver (adjust as you like)
+    - cron: "10 13 * * *"   # ~6:10am Denver (UTC cron); tweak if you want
   workflow_dispatch: {}
 
 permissions:
@@ -26,13 +26,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install selenium icalendar pytz python-dateutil
 
-      # ✅ Install Firefox & Geckodriver the right way on GitHub runners
+      # ✅ Install Firefox & Geckodriver
       - uses: browser-actions/setup-firefox@v1
         with:
           firefox-version: latest
-      - uses: browser-actions/setup-geckodriver@v1
+      - uses: browser-actions/setup-geckodriver@latest
         with:
-          geckodriver-version: latest
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build ICS
         env:
@@ -61,4 +61,3 @@ jobs:
         with:
           path: docs
       - uses: actions/deploy-pages@v4
-

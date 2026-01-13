@@ -3,14 +3,6 @@ VERSION:2.0
 PRODID:-//YMCA University Hills (scraped)//mxm//
 BEGIN:VEVENT
 SUMMARY:Indoor Cycling
-DTSTART;TZID=America/Denver:20260113T060000
-DTEND;TZID=America/Denver:20260113T070000
-DESCRIPTION:Instructor: Susan Mccabe\nRoom/Studio: UH: Pedal Cycle Studio\
- nSource: University Hills Y schedule
-LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indoor Cycling
 DTSTART;TZID=America/Denver:20260113T074500
 DTEND;TZID=America/Denver:20260113T084500
 DESCRIPTION:Instructor: Carrie A\nRoom/Studio: UH: Pedal Cycle Studio\nSou
@@ -522,19 +514,19 @@ DESCRIPTION:Instructor: Ymca Fitness Denver\nRoom/Studio: UH: Pedal Cycle
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grit
-DTSTART;TZID=America/Denver:20260117T080000
-DTEND;TZID=America/Denver:20260117T083000
-DESCRIPTION:Instructor: Annette Green\nRoom/Studio: University Hills YMCA\
- nSource: University Hills Y schedule
-LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba
 DTSTART;TZID=America/Denver:20260117T080000
 DTEND;TZID=America/Denver:20260117T090000
 DESCRIPTION:Instructor: Chrizanne C. Cabana\nRoom/Studio: UH: Gym\nSource:
   University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Mills Strength and Development
+DTSTART;TZID=America/Denver:20260117T080000
+DTEND;TZID=America/Denver:20260117T084500
+DESCRIPTION:Instructor: Annette Green\nRoom/Studio: University Hills YMCA\
+ nSource: University Hills Y schedule
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -546,19 +538,19 @@ DESCRIPTION:Instructor: Brandy Von Kaenel\nRoom/Studio: UH: Family pool\nS
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LES MILLS CORE
-DTSTART;TZID=America/Denver:20260117T083000
-DTEND;TZID=America/Denver:20260117T090000
-DESCRIPTION:Instructor: Annette Green\nRoom/Studio: UH: Group Ex Studio\nS
- ource: University Hills Y schedule
-LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Indoor Cycling
 DTSTART;TZID=America/Denver:20260117T083000
 DTEND;TZID=America/Denver:20260117T093000
 DESCRIPTION:Instructor: Erin Reger\nRoom/Studio: UH: Pedal Cycle Studio\nS
  ource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LES MILLS CORE
+DTSTART;TZID=America/Denver:20260117T084500
+DTEND;TZID=America/Denver:20260117T091500
+DESCRIPTION:Instructor: Annette Green\nRoom/Studio: University Hills YMCA\
+ nSource: University Hills Y schedule
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -1290,19 +1282,19 @@ DESCRIPTION:Instructor: Ymca Fitness Denver\nRoom/Studio: UH: Pedal Cycle
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grit
-DTSTART;TZID=America/Denver:20260124T080000
-DTEND;TZID=America/Denver:20260124T083000
-DESCRIPTION:Instructor: Libby L Lippoth\nRoom/Studio: University Hills YMC
- A\nSource: University Hills Y schedule
-LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba
 DTSTART;TZID=America/Denver:20260124T080000
 DTEND;TZID=America/Denver:20260124T090000
 DESCRIPTION:Instructor: Chrizanne C. Cabana\nRoom/Studio: UH: Gym\nSource:
   University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Mills Strength and Development
+DTSTART;TZID=America/Denver:20260124T080000
+DTEND;TZID=America/Denver:20260124T084500
+DESCRIPTION:Instructor: Annette Green\nRoom/Studio: University Hills YMCA\
+ nSource: University Hills Y schedule
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -1314,19 +1306,19 @@ DESCRIPTION:Instructor: Brandy Von Kaenel\nRoom/Studio: UH: Family pool\nS
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LES MILLS CORE
-DTSTART;TZID=America/Denver:20260124T083000
-DTEND;TZID=America/Denver:20260124T090000
-DESCRIPTION:Instructor: Libby L Lippoth\nRoom/Studio: UH: Group Ex Studio\
- nSource: University Hills Y schedule
-LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Indoor Cycling
 DTSTART;TZID=America/Denver:20260124T083000
 DTEND;TZID=America/Denver:20260124T093000
 DESCRIPTION:Instructor: Erin Reger\nRoom/Studio: UH: Pedal Cycle Studio\nS
  ource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LES MILLS CORE
+DTSTART;TZID=America/Denver:20260124T084500
+DTEND;TZID=America/Denver:20260124T091500
+DESCRIPTION:Instructor: Annette Green\nRoom/Studio: University Hills YMCA\
+ nSource: University Hills Y schedule
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
 BEGIN:VEVENT
@@ -1382,6 +1374,158 @@ SUMMARY:Aqua Bootcamp
 DTSTART;TZID=America/Denver:20260125T093000
 DTEND;TZID=America/Denver:20260125T103000
 DESCRIPTION:Instructor: Michelle Rivera\nRoom/Studio: UH: Family pool\nSou
+ rce: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BodyPump
+DTSTART;TZID=America/Denver:20260126T060000
+DTEND;TZID=America/Denver:20260126T064500
+DESCRIPTION:Instructor: Elizabeth W. Weber\nRoom/Studio: University Hills 
+ YMCA\nSource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$ Pilates Reformer 💵
+DTSTART;TZID=America/Denver:20260126T073000
+DTEND;TZID=America/Denver:20260126T082000
+DESCRIPTION:Instructor: Mary Pat Livorsi\nRoom/Studio: UH: Pilates Reforme
+ r Studio\nSource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indoor Cycling
+DTSTART;TZID=America/Denver:20260126T073000
+DTEND;TZID=America/Denver:20260126T083000
+DESCRIPTION:Instructor: Issica Cordova\nRoom/Studio: UH: Pedal Cycle Studi
+ o\nSource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Water
+DTSTART;TZID=America/Denver:20260126T083000
+DTEND;TZID=America/Denver:20260126T093000
+DESCRIPTION:Instructor: Cynthia Reiners\nRoom/Studio: UH: Family pool\nSou
+ rce: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indoor Cycling
+DTSTART;TZID=America/Denver:20260126T090000
+DTEND;TZID=America/Denver:20260126T100000
+DESCRIPTION:Instructor: Erin Reger\nRoom/Studio: UH: Pedal Cycle Studio\nS
+ ource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BodyPump
+DTSTART;TZID=America/Denver:20260126T090000
+DTEND;TZID=America/Denver:20260126T100000
+DESCRIPTION:Instructor: Katie Gram\nRoom/Studio: UH: Gym\nSource: Universi
+ ty Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$ Pilates Reformer 💵
+DTSTART;TZID=America/Denver:20260126T093000
+DTEND;TZID=America/Denver:20260126T102000
+DESCRIPTION:Instructor: Mary Pat Livorsi\nRoom/Studio: UH: Pilates Reforme
+ r Studio\nSource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barre
+DTSTART;TZID=America/Denver:20260126T103000
+DTEND;TZID=America/Denver:20260126T113000
+DESCRIPTION:Instructor: Vivien Chilton\nRoom/Studio: UH: Group Ex Studio\n
+ Source: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$ Pilates Reformer 💵
+DTSTART;TZID=America/Denver:20260126T103000
+DTEND;TZID=America/Denver:20260126T112000
+DESCRIPTION:Instructor: Mary Pat Livorsi\nRoom/Studio: UH: Pilates Reforme
+ r Studio\nSource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gentle Yoga
+DTSTART;TZID=America/Denver:20260126T103000
+DTEND;TZID=America/Denver:20260126T113000
+DESCRIPTION:Instructor: Vince Austin\nRoom/Studio: University Hills YMCA\n
+ Source: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silver Sneakers
+DTSTART;TZID=America/Denver:20260126T103000
+DTEND;TZID=America/Denver:20260126T113000
+DESCRIPTION:Instructor: Sue Melvin\nRoom/Studio: UH: Gym\nSource: Universi
+ ty Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Silver Sneakers
+DTSTART;TZID=America/Denver:20260126T114500
+DTEND;TZID=America/Denver:20260126T124500
+DESCRIPTION:Instructor: Sue Melvin\nRoom/Studio: UH: Gym\nSource: Universi
+ ty Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power Yoga
+DTSTART;TZID=America/Denver:20260126T120000
+DTEND;TZID=America/Denver:20260126T130000
+DESCRIPTION:Instructor: Arleen Law\nRoom/Studio: UH: Group Ex Studio\nSour
+ ce: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aqua Fitness
+DTSTART;TZID=America/Denver:20260126T130000
+DTEND;TZID=America/Denver:20260126T140000
+DESCRIPTION:Instructor: Michelle Rivera\nRoom/Studio: UH: Family pool\nSou
+ rce: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BodyPump
+DTSTART;TZID=America/Denver:20260126T163000
+DTEND;TZID=America/Denver:20260126T173000
+DESCRIPTION:Instructor: Kristen Campilonga\nRoom/Studio: UH: Group Ex Stud
+ io\nSource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indoor Cycling
+DTSTART;TZID=America/Denver:20260126T180000
+DTEND;TZID=America/Denver:20260126T190000
+DESCRIPTION:Instructor: Ryan Bross\nRoom/Studio: University Hills YMCA\nSo
+ urce: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BodyCombat
+DTSTART;TZID=America/Denver:20260126T180000
+DTEND;TZID=America/Denver:20260126T183000
+DESCRIPTION:Instructor: Annette Green\nRoom/Studio: UH: Group Ex Studio\nS
+ ource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LES MILLS CORE
+DTSTART;TZID=America/Denver:20260126T183000
+DTEND;TZID=America/Denver:20260126T190000
+DESCRIPTION:Instructor: Annette Green\nRoom/Studio: UH: Group Ex Studio\nS
+ ource: University Hills Y schedule
+LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vinyasa Yoga
+DTSTART;TZID=America/Denver:20260126T191500
+DTEND;TZID=America/Denver:20260126T200000
+DESCRIPTION:Instructor: Karlie R. Roper\nRoom/Studio: UH: Calm Studio\nSou
  rce: University Hills Y schedule
 LOCATION:University Hills-Schlessman YMCA\, Denver\, CO
 END:VEVENT
